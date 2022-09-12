@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing.Domain", "EventSourcing.Domain\EventSourcing.Domain.csproj", "{E45F67CD-4559-42A8-B4B8-84DD1DB23A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourcing.UnitTests", "EventSourcing.UnitTests\EventSourcing.UnitTests.csproj", "{E98D17FC-F322-4597-965A-102DD445DD79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E45F67CD-4559-42A8-B4B8-84DD1DB23A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45F67CD-4559-42A8-B4B8-84DD1DB23A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45F67CD-4559-42A8-B4B8-84DD1DB23A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45F67CD-4559-42A8-B4B8-84DD1DB23A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98D17FC-F322-4597-965A-102DD445DD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98D17FC-F322-4597-965A-102DD445DD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98D17FC-F322-4597-965A-102DD445DD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98D17FC-F322-4597-965A-102DD445DD79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
