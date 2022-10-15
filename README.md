@@ -1,1 +1,1 @@
-Simple Domain Driven Design and EventSourcing example in C#
+Simple event sourcing example in C#
